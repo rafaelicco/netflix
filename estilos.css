@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    margin-top: 20px;
+}
+
+.fundo-branco{
+    background-color: white;
+}
+
+#logo {
+    max-width: 200px;
+}
+
+.espaco20 {
+    margin-top: 20px;
+}
